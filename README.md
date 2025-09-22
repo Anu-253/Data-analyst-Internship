@@ -26,6 +26,8 @@ Key steps included:
 - Text columns standardized for consistency.
 - New feature `WaitingDays` created for analysis.
 - Dataset is now ready for exploratory data analysis (EDA).
+### Visualization
+![Missing Values Before vs After Cleaning](missing_values.png)
 
 ## 🚀 How to Use
 1. Clone this repository:
