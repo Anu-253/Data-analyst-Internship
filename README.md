@@ -30,7 +30,8 @@ Key steps included:
 ## 🚀 How to Use
 1. Clone this repository:
    
-  git clone https://github.com/<Anu-253>/Data-analyst-Internship.git
+  git clone https://github.com/<Anu-253>/Data-analyst-Internship.git 
+  
 2. Open the notebook in Jupyter/Colab:
   jupyter notebook medical_appointment_cleaning.ipynb
 
